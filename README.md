@@ -22,10 +22,6 @@ Responses include optional voice narration returned as base64-encoded MP3 audio.
 ## Project Structure
 ```
 voygan/
-├─ screenshots/              # Sample screenshots for README
-│  ├─ ui_chat.png           # Chat UI screenshot
-│  ├─ api_response.png      # API response screenshot
-│  └─ mobile_view.png       # Mobile UI screenshot
 ├─ frontend/
 │  ├─ html/
 │  │  └─ index.html         # Simple test UI (Tailwind + vanilla JS)

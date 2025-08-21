@@ -1,0 +1,7 @@
+.input{border:1px solid #e5e7eb;border-radius:12px;padding:.6rem .8rem;font-size:.9rem;outline:0}
+.input:focus{box-shadow:0 0 0 3px rgba(59,130,246,.25)}
+.btn{background:#2563eb;color:#fff;border-radius:12px;padding:.6rem 1rem;font-weight:600}
+.btn:hover{background:#1d4ed8}
+.bubble{max-width:80%;border-radius:16px;padding:10px 12px;box-shadow:0 1px 2px rgba(0,0,0,.08)}
+.bot{background:#eef5ff;border:1px solid #dbe9ff}
+.me{background:#fff;border:1px solid #e5e7eb}

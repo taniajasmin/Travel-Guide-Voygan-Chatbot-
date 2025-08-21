@@ -134,13 +134,11 @@ Ask about a place or monument; get a 5-paragraph response with optional base64-e
 ```
 
 ## Screenshots
-Below are sample screenshots of Voygan in action:
+Below are screenshots of the Voygan chatbot UI in action:
 
-<img width="913" height="911" alt="Image" src="https://github.com/user-attachments/assets/e54ed003-9bdb-4ca7-98c3-4202f34b1f23" />
-<img width="910" height="907" alt="Image" src="https://github.com/user-attachments/assets/51c330ca-7e52-44a2-85a1-ba4cc15d6fdc" />
-<img width="918" height="906" alt="Image" src="https://github.com/user-attachments/assets/ebc372d3-1655-4adc-8cc1-178b1c51b311" />
-<img width="914" height="911" alt="Image" src="https://github.com/user-attachments/assets/a65c632f-af80-4942-8977-cb39a691bd9f" />
-<img width="925" height="907" alt="Image" src="https://github.com/user-attachments/assets/0746f315-236c-4650-ae82-06bc75ba645b" />
+| Chat UI 1 | Chat UI 2 | Chat UI 3 | Chat UI 4 |
+|-----------|-----------|-----------|-----------|
+| <img src="https://github.com/user-attachments/assets/84567dc4-58ce-475e-9009-93587982dce2" alt="Voygan chatbot UI 1" width="200"> | <img src="https://github.com/user-attachments/assets/a21d962b-7add-48f1-a833-874b04ea1f8b" alt="Voygan chatbot UI 2" width="200"> | <img src="https://github.com/user-attachments/assets/24bbc479-1b94-4ba1-a577-f74ab4fefe4d" alt="Voygan chatbot UI 3" width="200"> | <img src="https://github.com/user-attachments/assets/f4a8e117-125a-4667-a4b5-47af304e1540" alt="Voygan chatbot UI 4" width="200"> |
 
 ## Notes
 - The backend auto-detects the user’s language from the input message.
